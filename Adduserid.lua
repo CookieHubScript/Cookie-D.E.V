@@ -13,7 +13,7 @@ local function loadDeveloperScript(player)
     print("Loading Developer Script for:", player.Name)
 
     -- URL to the developer script
-    local developerScriptURL = "https://raw.githubusercontent.com/Nakhun12310/CookieHub/refs/heads/main/FischTest.lua"
+    local developerScriptURL = "https://raw.githubusercontent.com/Nakhun12310/Cookie-Hub-D.E.V/refs/heads/main/GameList.lua"
 
     -- Fetch and execute the script
     local success, err = pcall(function()
