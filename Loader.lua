@@ -1,7 +1,7 @@
 -- Define developer user IDs
 local developerIDs = {
     [3809479488] = true, -- Replace with actual developer user IDs
-    [nil] = true,
+    [8159994932] = true,
     -- Add more developer IDs as needed
 }
 
