@@ -1,7 +1,10 @@
 -- Define developer user IDs
 local developerIDs = {
-    [3809479488] = true, -- Replace with actual developer user IDs
-    [8159994932] = true,
+    [3809479488] = true, -- Nakhun
+    [8159994932] = true, -- Testing Alt ( change everytime got banned. )
+    [2448511527] = true, -- Zepth
+    [5693641353] = true, -- Mash
+    [2860024038] = true, -- Bammy
     -- Add more developer IDs as needed
 }
 
